@@ -1,0 +1,7 @@
+*.DS_Store
+.vscode
+.python-version
+**/build
+**/sdkconfig
+**/sdkconfig.old
+**/dependencies.lock
